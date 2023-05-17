@@ -13,6 +13,10 @@ p, h2, ol, ul {
     font-family: 'Courier New', Courier, monospace;
 }
 
+p.intro {
+    margin-left: 0%;
+}
+
 h3 {
     font-family: 'Courier New', Courier, monospace;
 }
