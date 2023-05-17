@@ -1,0 +1,31 @@
+body {
+    width: auto;
+    background-color: cornsilk;
+}
+h1, h2 {
+    color: orange;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p, h2, ol, ul {
+    margin-left: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img {
+    width: 72;
+    height: 72;
+}
+
+h1 {
+    border-bottom: 2px solid orange;
+    text-align: center;
+}
+li, p {
+    line-height: 200%;
+}
