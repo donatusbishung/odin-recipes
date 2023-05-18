@@ -29,7 +29,12 @@ h3 {
 h1 {
     border-bottom: 2px solid orange;
     text-align: center;
+    letter-spacing: 0.1em;
+    word-spacing: -0.2em;
 }
 li, p {
     line-height: 200%;
+}
+ul, {
+    list-style-type: disc;
 }
